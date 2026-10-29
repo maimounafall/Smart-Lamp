@@ -1,4 +1,4 @@
-# Smart Lamp (Design Day 2024, 1st of 25 teams)
+# MARIDA Smart Lamp (Design Day 2024, 1st of 25 teams)
 
 An Arduino-based lamp that adjusts its brightness to the ambient light and flags sustained noise. Team project (5 members) for Design Day at the University of Ottawa, November 2024. I led the team.
 
@@ -15,7 +15,7 @@ An Arduino-based lamp that adjusts its brightness to the ambient light and flags
 - White LED (PWM) and red LED, with 1 Kohm and two 220 ohms resistors 
 - Enclosure: 3D-printed
 
-![Photo of the lamp](lamp.png)
+![Photo of the lamp](smart_lamp1.jpeg)
 
 ## Design decisions
 
@@ -40,6 +40,6 @@ Team lead, and the only Electrical Engineering student on the team of 5. I was i
 
 ## Files
 
-- `smart_lamp.ino`: the Arduino firmware (the lamp code)
-- `lamp.png`: photo of the lamp
-- `demo.mp4` : behaviour of the lamp in a noisy environment 
+- `code_projet.ino`: the Arduino firmware (the lamp code)
+- `smart_lamp1.jpeg`: photo of the lamp
+- `demo_smart_lamp.MOV` : behaviour of the lamp in a noisy environment 
